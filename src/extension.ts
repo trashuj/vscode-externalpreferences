@@ -51,7 +51,7 @@ function updatePreferences(prefs)
 {
     for (let extension of prefs.extensions)
     {
-        vscode.workspace.
+        //vscode.workspace.
 
     }
 }
