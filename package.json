@@ -11,7 +11,8 @@
         "Other"
     ],
     "activationEvents": [
-        "onCommand:extension.updatePreferences"
+        "onCommand:extension.updatePreferences",
+        "*"
     ],
     "main": "./out/src/extension",
     "contributes":
